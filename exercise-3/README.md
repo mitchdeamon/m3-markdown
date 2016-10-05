@@ -10,16 +10,19 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 
 See `complete` branch for answers.
 
-                                                GIT CLONE
+# GIT CLONE
 
-    This command will create a new repo (directory) in the current folder, and download a copy of the code and all the commits from the URL you specify.
+This command will create a new repo (directory) in the current folder, and download a copy of the code and all the commits from the URL you specify.
                     
-                    ex.) Forking and cloning module folders from github to my desktop.
-    
-    D-173-250-147-88:exercise-3 MitchDeamon$ git clone https://github.com/mitchdeamon/m4-git-intro.git
-    Cloning into 'm4-git-intro'...
-    remote: Counting objects: 38, done.
-    remote: Total 38 (delta 0), reused 0 (delta 0), pack-reused 38
-    Unpacking objects: 100% (38/38), done.
-    Checking connectivity... done.
+-Forking
+-Cloning
+  *Dowloading to desktop
+
+-ex.)
+        D-173-250-147-88:exercise-3 MitchDeamon$ git clone https://github.com/mitchdeamon/m4-git-intro.git
+        Cloning into 'm4-git-intro'...
+        remote: Counting objects: 38, done.
+        remote: Total 38 (delta 0), reused 0 (delta 0), pack-reused 38
+        Unpacking objects: 100% (38/38), done.
+        Checking connectivity... done.
         
