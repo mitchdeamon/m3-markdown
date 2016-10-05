@@ -14,8 +14,8 @@ See `complete` branch for answers.
 
 This command will create a new repo (directory) in the current folder, and download a copy of the code and all the commits from the URL you specify.
                     
--Forking
--Cloning
+ *Forking
+ *Cloning
   *Dowloading to desktop
 
 -ex.)
